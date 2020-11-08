@@ -1,2 +1,8 @@
 # Ai-Bot
-Created a Ai bot Named Jif
+requires following library's installed
+tkinter
+webbrowser
+wikipedia
+pyttsx3
+speech recognision
+pyaudio using pipwin
