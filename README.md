@@ -1,5 +1,5 @@
 # Ai-Bot
-requires following library's installed
+requires following library's installed:
 tkinter
 webbrowser
 wikipedia
